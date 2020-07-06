@@ -1,0 +1,2 @@
+# simple-rfm-analysis-in-python
+RFM to tradycyjne podejście do analizy zachowań klientów w branży detalicznej; akronim oznacza: niedawność (ang. recency), częstotliwość (ang. frequency) (zakupu), pieniężny (ang. monetary). Ten rodzaj analizy dzieli klientów na grupy na podstawie tego, jak niedawno dokonali zakupu, jak często robią zakupy i ile wydali pieniędzy. Analiza RFM bazuje na prostych założeniach, które można dopasować do wielu gałęzi przemysłu oraz sytuacji.
